@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manjunathan
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently learning Spring Boot
 
 <!---
 manjunathan-jayakumar/manjunathan-jayakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
